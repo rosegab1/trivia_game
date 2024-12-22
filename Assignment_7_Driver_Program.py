@@ -1,5 +1,4 @@
 #Gabriela Feliciano
-#U60146452
 '''The purpose of this program is to play a two-player trivia game and to
 obtain the questions and answers from another module'''
 
